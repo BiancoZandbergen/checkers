@@ -1,0 +1,2 @@
+The source code and binaries can be freely distributed.
+No explicit consent is required from the authors to derive a new work based on this work and to distribute the new work in source code or binary form.
